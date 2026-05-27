@@ -1,7 +1,7 @@
 import random 
 import string
 
-pass_len = 6
+pass_len = 6    # setting the length for password
 charValues = string.ascii_letters + string.digits + string.punctuation
 
 
